@@ -9,9 +9,7 @@ export default class Auth extends React.Component {
 
         <div>
           <a href="/remote"><p>Developer Bypass</p></a>
-          <p>Sign in with Illinois</p>
-          <p>Sign in with Google</p>
-          <p>Sign in with Microsoft</p>
+          <button type="button">Sign in with Google</button>
         </div>
       </div>
     );
